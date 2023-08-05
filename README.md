@@ -46,6 +46,8 @@ It will show like this
 
 <b>iii. sub task :</b> A subtask is used to broken down a storey into number of parts so that each part can be assigned to different team members to complete.Evvery issue(bugs, stories or tasks) can be broken down with the use of subtask.
 
-![create issu](https://github.com/Musab9860576525/Jira-as-a-Agile-management-tool/assets/93589142/7aa43e58-6b9b-4850-a50e-6a7ee0fba015)
+![create issu12](https://github.com/Musab9860576525/Jira-as-a-Agile-management-tool/assets/93589142/1a066b00-1071-4d4b-9dfb-4980898c5da1)
+
+As you see in Screen Shot you can create any kind of issue in JIRA by clicking on Create button and then it will ask for project name and the type of issue(story, task, bug) you want to create will be shown in the drop down.And then hit on create button. 
 
 
