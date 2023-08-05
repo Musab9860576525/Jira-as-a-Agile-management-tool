@@ -38,7 +38,14 @@ It will show like this
 ![emialsdd](https://github.com/Musab9860576525/Jira-as-a-Agile-management-tool/assets/93589142/5d5d0d7e-8519-47b4-af47-a7a7506a10a7)
 <br>
 <br>
-##### 
+#### 2.4 How to create Epic, User storey and sub tasks
 
+<b>i. Epic :</b> It is essentially a large user story that can be broken down into a number of smaller stories. An epic can span more than one project, if multiple projects are included in the board where the epic is created.
+
+<b>ii. User story :</b> A user story is the smallest unit of work in an agile framework. It's an end goal, not a feature, expressed from the software user's perspective. A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer.
+
+<b>iii. sub task :</b> A subtask is used to broken down a storey into number of parts so that each part can be assigned to different team members to complete.Evvery issue(bugs, stories or tasks) can be broken down with the use of subtask.
+
+![create issu](https://github.com/Musab9860576525/Jira-as-a-Agile-management-tool/assets/93589142/7aa43e58-6b9b-4850-a50e-6a7ee0fba015)
 
 
