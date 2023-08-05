@@ -8,9 +8,9 @@ For understanding of Jira as a agile management tool I have done this project by
 
 ## 2. Project contents
 
-These are 
+These are contents or steps followed 
 
-### 2.1 Configuration of Jira
+#### 2.1 Configuration of Jira
 
 Jira is a commercial software product that can be licensed for running on-premises or available as a hosted application.
 Atlassian provides Jira for free to open source projects meeting certain criteria, and to organizations that are non-academic, non-commercial, non-governmental, non-political, non-profit, and secular. For academic and commercial customers, the full source code is available under a developer source license.
@@ -22,7 +22,23 @@ But Jira provides totally free cloud based app which we can use for traininng pu
 
 AS soon as you logged in JIRA app it will show the current runnig project and templates(agile flavours) for new project.
 click on scrum it will creat a new project
+<br>
 
 #### 2.3 How to add team members into the project
 
+
+
 ![add people](https://github.com/Musab9860576525/Jira-as-a-Agile-management-tool/assets/93589142/b333f365-1d97-4e92-bc75-7d853b6cfca2)
+
+AS you can see i have created a project named 'onlinemart' and added team members.<br>
+We can add teams into our project by clicking add people button and it will ask for registered E-mail ID of member in Jira app.
+It will show like this
+<br>
+<br>
+![emialsdd](https://github.com/Musab9860576525/Jira-as-a-Agile-management-tool/assets/93589142/5d5d0d7e-8519-47b4-af47-a7a7506a10a7)
+<br>
+<br>
+##### 
+
+
+
