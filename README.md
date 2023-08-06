@@ -40,11 +40,11 @@ It will show like this
 <br>
 #### 2.4 How to create Epic, User storey and sub tasks
 
-  <b>i. Epic :</b> It is essentially a large user story that can be broken down into a number of smaller stories. An epic can span more than one project, if multiple projects     are included in the board where the epic is created.
+  * <b>Epic :</b> It is essentially a large user story that can be broken down into a number of smaller stories. An epic can span more than one project, if multiple projects     are included in the board where the epic is created.
 
-  <b>ii. User story :</b> A user story is the smallest unit of work in an agile framework. It's an end goal, not a feature, expressed from the software user's perspective. A      user story is an informal, general explanation of a software feature written from the perspective of the end user or customer.
+  * <b>User story :</b> A user story is the smallest unit of work in an agile framework. It's an end goal, not a feature, expressed from the software user's perspective. A      user story is an informal, general explanation of a software feature written from the perspective of the end user or customer.
 
-  <b>iii. sub task :</b> A subtask is used to broken down a storey into number of parts so that each part can be assigned to different team members to complete.Evvery             issue(bugs, stories or tasks) can be broken down with the use of subtask.
+  * <b>sub task :</b> A subtask is used to broken down a storey into number of parts so that each part can be assigned to different team members to complete.Evvery             issue(bugs, stories or tasks) can be broken down with the use of subtask.
 
 <kbd>![create issu12](https://github.com/Musab9860576525/Jira-as-a-Agile-management-tool/assets/93589142/1a066b00-1071-4d4b-9dfb-4980898c5da1)</kbd>
 
@@ -74,12 +74,13 @@ Now that we have to seen all the components of backlog page,Now lets see how to 
 #### 2.7 Updating and analysing of Board 
 
 <kbd>![board2](https://github.com/Musab9860576525/Jira-as-a-Agile-management-tool/assets/93589142/73546e4d-44ba-4db5-a662-e2a516b80574)</kbd>
-Boars consist of three section <br>
-i. To do <br>
-ii. Inprogress <br>
-iii. Completed <br>
-For each and every sprint.<br>
- <br>
+Board consist of three section <br>
+* To do <br>
+* Inprogress <br>
+* Completed <br>
+
+For each and every sprint.
+ 
 As you can see under "OLMSprint1" I have 3 stories.<br> 
 One storey is completed, one is in progress and one even not startes.<br>
 By just drag and drop in respective section we can change the status o a story.
@@ -90,7 +91,13 @@ Make sure to not do any changes and editing.
 <br>
 <kbd>[Project link](https://musabjaleel.atlassian.net/jira/software/projects/OLM/boards/1/backlog)</kbd>
 
-## conclusion
-
+## 4. conclusion
+In this way we have learnt
+*  What is Epic, User Story, Subtask, Sprint and Story point in JIRA/Agile Methodology
+*  How to create a project
+*  How to create any issue(Epic, User story, bug and sprint )
+*  How to take team members on board
+*  How to add stories to sprint and run the sprint
+*  How to manage BOARD and analyse the BOARD 
 
 
