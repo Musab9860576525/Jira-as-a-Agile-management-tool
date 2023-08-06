@@ -71,7 +71,7 @@ As you can see we have a one running sprint which has three stories.And in backl
 <br>
 Now that we have to seen all the components of backlog page,Now lets see how to use board to see how a individual team member is performing, his backlogs and completed task.
 
-#### Updating and analysing of Board 
+#### 2.7 Updating and analysing of Board 
 
 <kbd>![board2](https://github.com/Musab9860576525/Jira-as-a-Agile-management-tool/assets/93589142/73546e4d-44ba-4db5-a662-e2a516b80574)</kbd>
 Boars consist of three section <br>
